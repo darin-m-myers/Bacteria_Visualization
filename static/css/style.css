@@ -4,8 +4,6 @@ html {
   }
 
 body {
-    /* color: #f7f7f7; */
-    /* background-color: black; */
     margin-bottom: 60px;
 }
 
@@ -18,22 +16,19 @@ body {
 .jumbotron {
     background: none;
     text-align: center;
-    color: #f7f7f7;
+    color: #FCF7F8;
     text-shadow: 2px 2px 2px black;
 }
 
 h1 {
     font-family: Impact;
     font-variant: small-caps;
-    font-size: 80px;
-    font-weight: 400;
-    /* text-shadow: 2px 2px 2px black; */
 }
 
 p1 {
-    font-size: 25px;
+    font-size: 15px;
     font-weight: bold;
-    /* color:#324162; */
+    color:#E6AF2E;
     /* text-shadow: 2px 2px #64AAAA; */
 }
 
@@ -52,5 +47,6 @@ p1 {
     height: 60px;
     line-height: 60px;
     color: #f7f7f7;
+    text-shadow: 2px 2px 2px black;
     background-color: #64AAAA;
 }
