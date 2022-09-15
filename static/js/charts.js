@@ -130,7 +130,7 @@ function buildCharts(sample) {
       margin: {
         l: 50,
         r: 50,
-        b: 30,
+        b: 100,
         t: 75,
         pad: 4
       },
